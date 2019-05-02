@@ -1,0 +1,12 @@
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.name {
+    padding: 10px;
+}
+
+.data {
+    padding: 10px;
+}
